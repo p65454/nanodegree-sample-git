@@ -4,3 +4,6 @@
 - staged
 - modified
 - unmodified
+
+git commit
+messageconvention
